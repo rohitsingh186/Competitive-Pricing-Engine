@@ -20,5 +20,9 @@ public class Competitor {
 	public Map<Product, Double> getProductPrices() {
 		return productPrices;
 	}
+
+	public String getName() {
+		return name;
+	}
 	
 }

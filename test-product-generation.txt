@@ -1,0 +1,4 @@
+ToshibaHardDrive H H
+IPhone6S L L
+Redmi L H
+SamsungPhone H L

@@ -24,6 +24,7 @@ public class Product implements Comparable {
 		return name;
 	}
 
+	@Override
 	public int compareTo(Object o) {
 		return this.name.compareTo(((Product) o).getName());
 	}
