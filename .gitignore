@@ -1,19 +1,11 @@
-#Eclipse Config Files
-/.settings/
+.settings/
 .classpath
 .project
-
-#Idea Config Files
-/.idea/
+.idea/
 *.eml
 *.iml
-
-# Package Files #
 *.jar
 *.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/target/
-
-/bin/
+target/
+bin/
